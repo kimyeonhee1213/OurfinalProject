@@ -8,13 +8,13 @@ KH 정보교육원에서 수행한 파이널 팀 프로젝트입니다.
 ![그림1](https://github.com/user-attachments/assets/f466e34b-98b3-44f4-81e9-45e178f8c635)
 
 ## 개발환경
-운영체제 :  Window 10
-개발도구 :  STS, SqlDeveloper
-DBMS : Oracle11gXE
-Server: Apache Tomcat9
-Language : HTML, CSS, JQuery, Ajax, JSP, Java(Servlet), EL/JSTL, JSON, JavaScript, JDK 1.8
-FrameWork : Spring Framework 5.2.22, Bootstrap, Mybatis
-버전관리 시스템 : git 
+* 운영체제 :  Window 10
+* 개발도구 :  STS, SqlDeveloper
+* DBMS : Oracle11gXE
+* Server: Apache Tomcat9
+* Language : HTML, CSS, JQuery, Ajax, JSP, Java(Servlet), EL/JSTL, JSON, JavaScript, JDK 1.8
+* FrameWork : Spring Framework 5.2.22, Bootstrap, Mybatis
+* 버전관리 시스템 : git 
 
 ## 구현기능
 * CRUD기능을 각 모듈별로 모두 구현
